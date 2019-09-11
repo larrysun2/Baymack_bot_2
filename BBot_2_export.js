@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bot Baymack 3
 // @namespace    http://tampermonkey.net/
-// @version      2.9
+// @version      2.90
 // @description  try to take over the world!
 // @author       Larry Jose Suniaga Diaz(LJSD)
 // @match        https://*baymack.com/*
