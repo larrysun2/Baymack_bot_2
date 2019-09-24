@@ -1,32 +1,22 @@
 // ==UserScript==
 // @name         Bot Baymack 3
 // @namespace    http://tampermonkey.net/
-// @version      2.91
+// @version      2.92
 // @description  try to take over the world!
 // @author       Larry Jose Suniaga Diaz(LJSD)
 // @match        https://*baymack.com/*
-// @match        https://*flamzy.com/*
-// @match        https://*outbuck.com/*
-// @match        https://*skylom.com/*
-// @match        https://*snuckls.com/*
 // @match        https://www.baymack.com/*
-// @match        https://www.flamzy.com/*
-// @match        https://www.outbuck.com/*
-// @match        https://www.skylom.com/*
-// @match        https://www.snuckls.com/*
 // @match        https://*/vids*
-// @match        https://*/videos*
 // @match        https://*/entry*
 // @match        https://2captcha.com/in.php*
 // @match        https://2captcha.com/res.php*
 // @match        https://*.facebook.com/connect*
-// @match        https://www.amazon.com/gc/redeem*
 // @require      https://www.gstatic.com/firebasejs/4.12.1/firebase-app.js
 // @require      https://www.gstatic.com/firebasejs/4.12.1/firebase-database.js
 // @require      https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
 // @match        https://time.is/es/UTC*
-// @updateURL    https://raw.githubusercontent.com/larrysun2/Baymack_bot_2/master/BBot_2_export.js
-// @downloadURL  https://raw.githubusercontent.com/larrysun2/Baymack_bot_2/master/BBot_2_export.js
+// @updateURL    https://raw.githubusercontent.com/larrysun2/Baymack_bot_2/master/BBot_bot_baymack.js
+// @downloadURL  https://raw.githubusercontent.com/larrysun2/Baymack_bot_2/master/BBot_bot_baymack.js
 // @grant        none
 // ==/UserScript==
 
