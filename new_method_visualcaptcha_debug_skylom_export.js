@@ -13,8 +13,8 @@
 // @require      https://www.gstatic.com/firebasejs/4.12.1/firebase-database.js
 // @require      https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
 // @match        https://time.is/es/UTC*
-// @updateURL    https://raw.githubusercontent.com/larrysun2/Baymack_bot_2/master/BBot_2_export.js
-// @downloadURL  https://raw.githubusercontent.com/larrysun2/Baymack_bot_2/master/BBot_2_export.js
+// @updateURL    https://github.com/larrysun2/Baymack_bot_2/raw/master/new_method_visualcaptcha_debug_skylom_export.js
+// @downloadURL  https://github.com/larrysun2/Baymack_bot_2/raw/master/new_method_visualcaptcha_debug_skylom_export.js
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
